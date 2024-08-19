@@ -4,7 +4,6 @@
     "details": [
       {
         "appIDs": [
-          "P634K2UB3K.com.example.dev",
           "P634K2UB3K.jp.co.online.kaiin.dev"
         ],
         "paths": [
@@ -20,7 +19,6 @@
   },
   "webcredentials": {
     "apps": [
-      "P634K2UB3K.com.example.dev",
       "P634K2UB3K.jp.co.online.kaiin.dev"
     ]
   }
