@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "P634K2UB3K.jp.co.gorilatte.dev"
+          "P634K2UB3K.jp.co.online.kaiin.dev"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "P634K2UB3K.jp.co.gorilatte.dev"
+      "P634K2UB3K.jp.co.online.kaiin.dev"
     ]
   }
 }
