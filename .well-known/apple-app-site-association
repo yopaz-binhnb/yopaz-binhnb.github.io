@@ -4,6 +4,7 @@
     "details": [
       {
         "appIDs": [
+          "P634K2UB3K.vn.yopaz.app.myyopaz",
           "P634K2UB3K.vn.yopaz.myyopaz"
         ],
         "paths": [
@@ -19,6 +20,7 @@
   },
   "webcredentials": {
     "apps": [
+      "P634K2UB3K.vn.yopaz.app.myyopaz",
       "P634K2UB3K.vn.yopaz.myyopaz"
     ]
   }
